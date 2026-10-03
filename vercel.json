@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api-externa/:path*",
+      "destination": "https://portal-online-pe.autos*"
+    }
+  ]
+}
